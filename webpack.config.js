@@ -5,7 +5,7 @@ module.exports = {
     entry: ['whatwg-fetch', './Components/app.jsx'],
     output: {
         filename: "out.js",
-        path: path.resolve(__dirname, "js")
+        path: path.resolve(__dirname, "build")
     },
     mode: 'development',
     module: {
