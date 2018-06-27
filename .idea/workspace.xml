@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b48e0f9b-9f65-4d26-8886-0dfc98b9a88a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -79,7 +80,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="67" />
     <option name="y" value="25" />
     <option name="width" value="1047" />
@@ -168,15 +169,15 @@
       <workItem from="1529658894112" duration="93000" />
       <workItem from="1529659018531" duration="5000" />
       <workItem from="1529667514848" duration="282000" />
-      <workItem from="1529944734634" duration="645000" />
+      <workItem from="1529944734634" duration="2025000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71071000" />
+    <option name="totallyTimeSpent" value="72451000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1613" height="1025" extended-state="6" />
+    <frame x="67" y="25" width="1613" height="1025" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20148791" />
